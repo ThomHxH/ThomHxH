@@ -1,18 +1,20 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<img src="https://i.pinimg.com/originals/2b/2d/e5/2b2de5d36b8561726059639c099b2446.gif" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThomHxH&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_DE_GITHUB&theme=dracula&column=7" alt=" " /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThomHxH&theme=dracula&column=7" alt="trofeos" /></a> </p>
 
 - 📚 Estudiante de **Ingeniería Civil en Informática** en la [Universidad Austral de Chile (UACh)](https://www.uach.cl/)
 
-- 🐍 Actualmente profundizando en **Python** (POO, Estructuras de datos).
-- 
+- 🐍 Enfocado actualmente en **Python** y sus fundamentos.
+
 - 🐧 Usuario de **Linux (Arch)**.
 
-- 🎯 Futuro desarrollador en **C++ & Unreal Engine 5**..
+- 🎯 Futuro desarrollador en **C++ & Unreal Engine 5**.
+
+- 📺 Entusiasta del Hardware Retro.
 
 - 📫 Contacto: **thomasgmz.dev@gmail.com**
 
@@ -22,7 +24,7 @@
 <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Stack:</h3>
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -33,9 +35,8 @@
 </p>
 
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ThomHxH&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomHxH&layout=compact&theme=gotham&langs_count=8"/>
 </div>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-------
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
