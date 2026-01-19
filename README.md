@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_DE_GITHUB&theme=dracula&column=7" alt="trofeos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_DE_GITHUB&theme=dracula&column=7" alt=" " /></a> </p>
 
 - 📚 Estudiante de **Ingeniería Civil en Informática** en la [Universidad Austral de Chile (UACh)](https://www.uach.cl/)
 
