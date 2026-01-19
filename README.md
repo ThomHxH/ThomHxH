@@ -1,10 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://i.pinimg.com/originals/2b/2d/e5/2b2de5d36b8561726059639c099b2446.gif" width="100%">
+<div align="center">
+  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThomHxH&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThomHxH&theme=dracula&column=7" alt="trofeos" /></a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ThomHxH&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" /> 
+</p>
 
 - 📚 Estudiante de **Ingeniería Civil en Informática** en la [Universidad Austral de Chile (UACh)](https://www.uach.cl/)
 
@@ -18,25 +20,10 @@
 
 - 📫 Contacto: **thomasgmz.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">My Stack:</h3>
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a>
-    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a>
-</p>
-
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ThomHxH&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomHxH&layout=compact&theme=gotham&langs_count=8"/>
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="
