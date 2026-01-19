@@ -9,14 +9,12 @@
 - 📚 Estudiante de **Ingeniería Civil en Informática** en la [Universidad Austral de Chile (UACh)](https://www.uach.cl/)
 
 - 🐍 Actualmente profundizando en **Python** (POO, Estructuras de datos).
+- 
+- 🐧 Usuario de **Linux (Arch)**.
 
-- 🐧 Usuario de **Linux (CachyOS)**.
+- 🎯 Futuro desarrollador en **C++ & Unreal Engine 5**..
 
-- 🎯 Futuro desarrollador en **C++ & Unreal Engine 5**.
-
-- 📺 Fan de la tecnología retro (Sony Trinitron enjoyer).
-
-- 📫 Contacto: **TU_CORREO@GMAIL.COM**
+- 📫 Contacto: **thomasgmz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
