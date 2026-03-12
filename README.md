@@ -8,17 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ThomHxH&label=Profile%20views&color=0e75b6&style=flat" alt="vistas" /> 
 </p>
 
-- 📚 Estudiante de **Ingeniería Civil en Informática** en la [Universidad Austral de Chile (UACh)](https://www.uach.cl/)
-
-- 🐍 Enfocado actualmente en **Python** y sus fundamentos.
-
-- 🐧 Usuario de **Linux (Arch)**.
-
-- 🎯 Futuro desarrollador en **C++ & Unreal Engine 5**.
-
-- 📺 Entusiasta del Hardware Retro.
-
-- 📫 Contacto: **thomasgmz.dev@gmail.com**
+-valiendo callampa xd
 
 <h3 align="left">Tecnologias conocidas:</h3>
 <p align="left"> 
